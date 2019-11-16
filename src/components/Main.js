@@ -23,7 +23,7 @@ function Main() {
             <section>
             <div className="section-container">
                 <div className="jumbotron text-center">
-                    <h1>Professional tutor team</h1>
+                    <h1>Out professional tutor team</h1>
                     {/* teching or teaching? */}
                     <p>Our tutors have many years of commercial and teching experience</p>
                 </div>
